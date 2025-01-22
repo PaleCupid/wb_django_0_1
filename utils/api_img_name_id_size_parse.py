@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+import copy
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -24,7 +25,12 @@ def size_id_parse(cards, database, keys, model):
         temp_dict = {'model': model, 'fields': {key: value for key, value in item.items() if key in keys}}
         for i in range(len(temp_dict['fields']['sizes'])):
             temp_dict['fields']['sizes'][i] = temp_dict['fields']['sizes'][i]['techSize']
-        database.append(temp_dict)
+        my_list = temp_dict['fields']['sizes']
+        for item in my_list:
+            temp_dict_one_size = copy.deepcopy(temp_dict)
+            temp_dict_one_size['fields']['sizes'] = item
+            database.append(temp_dict_one_size)
+
 
 model_name_img_id = 'main.NameImgIdModel'
 model_id_size = 'main.IdSizeModel'

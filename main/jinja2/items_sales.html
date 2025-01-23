@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>vendor_code</th>
+                <th>nmID</th>
+                <th>photos</th>
+                <th>sizes</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in data %}
+            {% if item.sizes|length != 0 %}
+                <tr>
+                    <td rowspan="{{ item.sizes|length + 1 }}">{{ item.nmID}}</td>
+                    <td rowspan="{{ item.sizes|length + 1 }}">{{ item.vendorCode }}</td>
+                    <td rowspan="{{ item.sizes|length + 1 }}"><img src="{{ item.photos }}" alt="error" width="100"></td>
+                </tr>
+                {% for size in item.sizes %}
+                <tr>
+                    <td>{{ size }}</td>
+                </tr>
+                {% endfor %}
+            {% endif %}
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

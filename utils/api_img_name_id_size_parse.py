@@ -54,8 +54,8 @@ res = requests.post(url_cards, headers=headers, data=json.dumps(data))
 
 last_card_num = res.json()['cursor']['total'] # присваиваем число загруженных карточек
     
-with open('img_name_id.json', 'w', encoding='utf-8') as file:
-    with open('id_size.json', 'w', encoding='utf-8') as file_sizes:
+with open('../main/fixtures/img_name_id.json', 'w', encoding='utf-8') as file:
+    with open('../main/fixtures/id_size.json', 'w', encoding='utf-8') as file_sizes:
         database_list = []
         database_list_sizes = []
         img_name_id_parse(res.json()["cards"], database_list, needed_keys_first, model_name_img_id)

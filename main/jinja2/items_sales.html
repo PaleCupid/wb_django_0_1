@@ -1,34 +1,90 @@
 <!DOCTYPE html>
 <html>
-<head>
 
+<head>
+    <style>
+        .table-container {
+            max-height: 650px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            width: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        thead th {
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid black;
+        }
+        .align-top {
+            vertical-align: top;
+        }
+    </style>
 </head>
+
 <body>
-    <table border="1">
-        <thead>
-            <tr>
-                <th>vendor_code</th>
-                <th>nmID</th>
-                <th>photos</th>
-                <th>sizes</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for item in data %}
-            {% if item.sizes|length != 0 %}
+    <caption>Items</caption>
+    <div class="table-container">
+        <table style="border: 5px solid #990000; border-collapse: collapse">
+            <thead>
                 <tr>
-                    <td rowspan="{{ item.sizes|length + 1 }}">{{ item.nmID}}</td>
-                    <td rowspan="{{ item.sizes|length + 1 }}">{{ item.vendorCode }}</td>
-                    <td rowspan="{{ item.sizes|length + 1 }}"><img src="{{ item.photos }}" alt="error" width="100"></td>
+                    <th>vendor_code</th>
+                    <th>nmID</th>
+                    <th>photos</th>
+                    <th>sizes</th>
+                    {% for item in dates %}
+                        <th white-space: nowrap>{{ item }}</th>
+                    {% endfor %}
                 </tr>
-                {% for size in item.sizes %}
-                <tr>
-                    <td>{{ size }}</td>
-                </tr>
+            </thead>
+            <tbody>
+                {% for item in data %}
+                {% if item.sizes|length != 0 %}
+                    <tr>
+                        <td rowspan="{{ item.sizes|length }}">{{ item.nmID }}</td>
+                        <td rowspan="{{ item.sizes|length }}">{{ item.vendorCode }}</td>
+                        <td rowspan="{{ item.sizes|length }}"><img src="{{ item.photos }}" alt="error" width="100"></td>
+                        <td>{{ item.sizes[0] }}</td>
+                            {% set counter = namespace(found=0) %}
+                            {% for i in range(dates|length) %}
+                                {% if (i+1) % 8 == 0 %}
+
+                                <td class="align-top" rowspan="{{ item.sizes|length }}" bgcolor="Orange">{{ counter.found }}</td>
+                                {% set counter.found = 0 %}
+
+                                {% else %}
+
+                                <td class="align-top" rowspan="{{ item.sizes|length }}" bgcolor="PeachPuff">
+                                    
+                                    {% if dates[i] in sales.keys() %}
+                                        {% if item.nmID in sales[dates[i]].keys() %}
+                                            {{  sales[dates[i]][item.nmID]  }}
+                                            {% set counter.found = counter.found + sales[dates[i]][item.nmID] %}
+                                        {% else %}
+                                            0
+                                        {% endif %}
+                                    {% endif %}
+                                </td>
+                                
+                                {% endif %}
+                            {% endfor %}
+                        {% for i in range(1, item.sizes|length) %}
+                    </tr>
+                            <tr>
+                            <td>{{ item.sizes[i] }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endif %}
                 {% endfor %}
-            {% endif %}
-            {% endfor %}
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>

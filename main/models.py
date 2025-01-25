@@ -8,3 +8,11 @@ class NameImgIdModel(models.Model):
 class IdSizeModel(models.Model):
     nmID = models.ForeignKey(NameImgIdModel, to_field='nmID', on_delete=models.CASCADE)
     sizes = models.CharField(max_length=20)
+
+class SalesTable(models.Model):
+    date = models.DateTimeField()
+    supplierArticle = models.CharField(max_length=100)
+    nmId = models.CharField(max_length=30)
+    techSize = models.CharField(max_length=50)
+    priceWithDisc = models.CharField(max_length=30)
+    saleID = models.CharField(max_length=30, primary_key=True, default='0')

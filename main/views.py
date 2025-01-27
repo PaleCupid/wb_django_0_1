@@ -37,9 +37,10 @@ def items_sales(request):
                 item_cards['sizes'] = item_cards.get('sizes', []) # добавляем для каждого предмета и размеров пару предмет - размеры
                 item_cards['sizes'].append(item_sizes['sizes'])
 
-    return render(request, 'items_sales.html', {'data': data_cards, 'dates': dates_list, 'sales': sales_dict})
+    menus_n_refs = {'Продажи': '/items_sales', 'Список заказов': '/orders_table'}
+    return render(request, 'items_sales.html', {'data': data_cards, 'dates': dates_list, 'sales': sales_dict, "menu_items": menus_n_refs})
 
 def orders_table(request):
     data = OrdersTable.objects.all()
-    menus_n_refs = {'Продажи': '/two_tables', 'Список заказов': '/html_js'}
+    menus_n_refs = {'Продажи': '/items_sales', 'Список заказов': '/orders_table'}
     return render(request, 'orders_table.html', {"data": data, "menu_items": menus_n_refs})

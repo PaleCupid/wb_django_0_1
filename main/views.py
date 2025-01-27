@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import NameImgIdModel, IdSizeModel, SalesTable
+from .models import NameImgIdModel, IdSizeModel, SalesTable, OrdersTable
 from datetime import date, timedelta
 
 def items_sales(request):
@@ -38,3 +38,8 @@ def items_sales(request):
                 item_cards['sizes'].append(item_sizes['sizes'])
 
     return render(request, 'items_sales.html', {'data': data_cards, 'dates': dates_list, 'sales': sales_dict})
+
+def orders_table(request):
+    data = OrdersTable.objects.all()
+    menus_n_refs = {'Продажи': '/two_tables', 'Список заказов': '/html_js'}
+    return render(request, 'orders_table.html', {"data": data, "menu_items": menus_n_refs})

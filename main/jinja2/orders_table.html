@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css">
+</head>
+<body>
+    <header>
+        
+    </header>
+    <table id="example" class="display">
+        <thead>
+            <tr>
+                <th>srid</th>
+                <th white-space: nowrap>date</th>
+                <th>warehouseName</th>
+                <th>oblastOkrugName</th>
+                <th>regionName</th>
+                <th>supplierArticle</th>
+                <th>nmId</th>
+                <th>barcode</th>
+                <th>incomeID</th>
+                <th>finishedPrice</th>
+                <th>priceWithDisc</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in data %}
+            <tr>
+                <td>{{ item.srid }}</td>
+                <td white-space: nowrap>{{ item.date }}</td>
+                <td>{{ item.warehouseName }}</td>
+                <td>{{ item.oblastOkrugName }}</td>
+                <td>{{ item.regionName }}</td>
+                <td>{{ item.supplierArticle }}</td>
+                <td>{{ item.nmId }}</td>
+                <td>{{ item.barcode }}</td>
+                <td>{{ item.incomeID }}</td>
+                <td>{{ item.finishedPrice }}</td>
+                <td>{{ item.priceWithDisc }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+</body>
+</html>

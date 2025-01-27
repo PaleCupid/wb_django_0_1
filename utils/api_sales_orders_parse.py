@@ -8,6 +8,7 @@ def write_data_in_json(url, headers, params, keys, model):
     response = requests.get(url, headers=headers, params=params) # получаем данные sales или order в зависимости от переданных аргументов url, headers, params
 
     my_list = response.json() # функция json() преобразует ответ в список словарей. Далее работаем с my_list как со списком словарей
+    print(len(my_list))
     for i in range(len(my_list)):
         my_list[i]["date"] = my_list[i]["date"].replace('T', ' ') # исправляем запись даты, чтобы она подходила под требования sqlite3
 
@@ -32,8 +33,8 @@ headers = {
 }
 
 params_order = {
-    'dateFrom': '2024-12-20',
-    'flag': 1, # флаг 1 когда нужна инфа по одному дню
+    'dateFrom': '2024-12-25',
+    'flag': 0, # флаг 1 когда нужна инфа по одному указанному дню
 }
 
 params_sales = {
@@ -47,4 +48,4 @@ orders_model = "main.OrdersTable"
 sales_model = "main.SalesTable"
 
 write_data_in_json(orders_url, headers, params_order, needed_keys_orders, orders_model)
-write_data_in_json(sales_url, headers, params_sales, needed_keys_sales, sales_model)
+# write_data_in_json(sales_url, headers, params_sales, needed_keys_sales, sales_model)

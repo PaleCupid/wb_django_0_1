@@ -16,3 +16,17 @@ class SalesTable(models.Model):
     techSize = models.CharField(max_length=50)
     priceWithDisc = models.CharField(max_length=30)
     saleID = models.CharField(max_length=30, primary_key=True, default='0')
+
+class OrdersTable(models.Model):
+    srid = models.CharField(max_length=100, primary_key=True, default='0')
+    date = models.DateTimeField()
+    warehouseName = models.CharField(max_length=30)
+    oblastOkrugName = models.CharField(max_length=50)
+    regionName = models.CharField(max_length=50)
+    supplierArticle = models.CharField(max_length=100)
+    nmId = models.CharField(max_length=30)
+    barcode = models.CharField(max_length=30)
+    incomeID = models.CharField(max_length=30)
+    finishedPrice = models.CharField(max_length=30)
+    priceWithDisc = models.CharField(max_length=30)
+    isCancel = models.CharField(max_length=10, default='0')

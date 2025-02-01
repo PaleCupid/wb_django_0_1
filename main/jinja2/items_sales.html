@@ -2,11 +2,11 @@
 <html>
 
 <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> <!-- подключим jQuery -->
     <style>
         .table-container {
-            max-height: 650px;
+            max-height: 600px;
             overflow-y: auto;
-            border: 1px solid #ccc;
             width: 100%;
         }
         table {
@@ -26,6 +26,17 @@
         .align-top {
             vertical-align: top;
         }
+
+        th.week {
+            cursor:pointer;
+        } /* при наведении на элемент th с классом week вместо курсора будет появляться рука с пальцем */
+        .week .sign:after {
+            content:"+";
+            display:inline-block;
+        } /* добавим кастомный класс week и добавление минуса при присовении класса expand */
+        .week.expand .sign:after {
+            content:"-";
+        }
     </style>
 </head>
 
@@ -40,9 +51,14 @@
                     <th>vendor_code</th>
                     <th>nmID</th>
                     <th>photos</th>
-                    <th>sizes</th>
+                    <th class="not_expandable">sizes</th>
                     {% for item in dates %}
-                        <th white-space: nowrap>{{ item }}</th>
+                        {% if item[0:6] == "Неделя" %} <!-- Здесь добавлен функционал для размещения плюсика если ячейка наинается с Неделя -->
+                            {% set number = item[7:] | int %} <!-- тут мы записываем число недели в переменную. Это можно использовать при присвоении класса тегу с названием недели -->
+                            <th class="week {{ number }} not_expandable" white-space: nowrap>{{ item }}<span class="sign"></span></th>
+                        {% else %}
+                            <th white-space: nowrap>{{ item }}</th>
+                        {% endif %}
                     {% endfor %}
                 </tr>
             </thead>
@@ -53,14 +69,13 @@
                         <td rowspan="{{ item.sizes|length }}">{{ item.nmID }}</td>
                         <td rowspan="{{ item.sizes|length }}">{{ item.vendorCode }}</td>
                         <td rowspan="{{ item.sizes|length }}"><img src="{{ item.photos }}" alt="error" width="100"></td>
-                        <td>{{ item.sizes[0] }}</td>
+                        <td class="not_expandable">{{ item.sizes[0] }}</td>  <!-- добавляем not_expandable в ячейки size для jQuery функции prevUntil -->
                             {% set counter = namespace(found=0) %}
                             {% for i in range(dates|length) %}
-                                {% if (i+1) % 8 == 0 %}
-
-                                <td class="align-top" rowspan="{{ item.sizes|length }}" bgcolor="Orange">{{ counter.found }}</td>
-                                {% set counter.found = 0 %}
-
+                                {% if dates[i][0:6] == "Неделя" %} <!--Здесь изменим критерий расчета суммы для недели. Вместо нелепого остатка сделаем провверку среза-->
+                                {% set number = dates[i][7:] | int %} <!-- тут мы записываем число недели в переменную. Это можно использовать при присвоении id тегу с подсчетом продаж -->
+                                    <td class="align-top {{ number }} not_expandable" rowspan="{{ item.sizes|length }}" bgcolor="Orange">{{ counter.found }}</td>
+                                    {% set counter.found = 0 %}
                                 {% else %}
 
                                 <td class="align-top" rowspan="{{ item.sizes|length }}" bgcolor="PeachPuff">
@@ -77,16 +92,23 @@
                                 
                                 {% endif %}
                             {% endfor %}
-                        {% for i in range(1, item.sizes|length) %}
-                    </tr>
-                            <tr>
-                            <td>{{ item.sizes[i] }}</td>
-                        {% endfor %}
-                    </tr>
+                            {% for i in range(1, item.sizes|length) %}
+                        </tr>
+                        <tr>
+                            <td class="not_expandable">{{ item.sizes[i] }}</td> <!-- добавляем not_expandable в ячейки size для jQuery функции prevUntil -->
+                            {% endfor %}
+                        </tr>
                 {% endif %}
                 {% endfor %}
             </tbody>
         </table>
     </div>
+    <script>
+        $('.week').click(function() {
+            let className = $(this).attr('class').split(' ')[1]; // Ранее мы добавляли класс в формате числа недели для ячеек с названием недели и с суммой недели. Записываем этот класс в переменную
+            $(this).toggleClass('expand');
+            $('.' + className).prevUntil('.not_expandable').toggle();
+        });
+    </script> <!-- этот скрипт нужен для того, чтобы у предметов с классом week добавлялся или исчезал класс expand -->
 </body>
 </html>

@@ -27612,23 +27612,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-06T11:35:12",
-            "supplierArticle": "Туфли-16/DA002/БежЛакКабл",
-            "nmId": 210822270,
-            "techSize": "37",
-            "priceWithDisc": -3200,
-            "saleID": "R397398015"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-06T11:37:06",
             "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
             "nmId": 177768474,
             "techSize": "38",
             "priceWithDisc": 2880,
             "saleID": "S14820395518"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-06T11:35:12",
+            "supplierArticle": "Туфли-16/DA002/БежЛакКабл",
+            "nmId": 210822270,
+            "techSize": "37",
+            "priceWithDisc": -3200,
+            "saleID": "R397398015"
         }
     },
     {
@@ -27997,23 +27997,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-06T13:50:51",
-            "supplierArticle": "Джинсы-2/017/БананЧер",
-            "nmId": 174079418,
-            "techSize": "30",
-            "priceWithDisc": 1124.97,
-            "saleID": "S14823652340"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-06T13:52:11",
             "supplierArticle": "Ботинки-23/А-3014/А-3042/ЧернЗимБежПлат",
             "nmId": 177906669,
             "techSize": "38",
             "priceWithDisc": 2400,
             "saleID": "S14823698086"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-06T13:50:51",
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "30",
+            "priceWithDisc": 1124.97,
+            "saleID": "S14823652340"
         }
     },
     {
@@ -28613,23 +28613,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-06T17:35:30",
-            "supplierArticle": "Джинсы-2/БананСин",
-            "nmId": 174080536,
-            "techSize": "32",
-            "priceWithDisc": 1274.87,
-            "saleID": "S14829047640"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-06T17:37:08",
             "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
             "nmId": 176570836,
             "techSize": "56 - 170",
             "priceWithDisc": 1750,
             "saleID": "S14829102105"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-06T17:35:30",
+            "supplierArticle": "Джинсы-2/БананСин",
+            "nmId": 174080536,
+            "techSize": "32",
+            "priceWithDisc": 1274.87,
+            "saleID": "S14829047640"
         }
     },
     {
@@ -29328,23 +29328,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-07T13:44:52",
-            "supplierArticle": "Туфли-12/Р46-3/КаблБеж",
-            "nmId": 180238402,
-            "techSize": "40",
-            "priceWithDisc": -1980,
-            "saleID": "R397670449"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-07T13:42:52",
             "supplierArticle": "Туфли-12/Р46-3/КаблБеж",
             "nmId": 180238402,
             "techSize": "40",
             "priceWithDisc": 1980,
             "saleID": "S14837378267"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-07T13:44:52",
+            "supplierArticle": "Туфли-12/Р46-3/КаблБеж",
+            "nmId": 180238402,
+            "techSize": "40",
+            "priceWithDisc": -1980,
+            "saleID": "R397670449"
         }
     },
     {
@@ -29427,17 +29427,6 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-07T14:12:11",
-            "supplierArticle": "Кросс-15/Н115-2/ВолкЗел",
-            "nmId": 205481004,
-            "techSize": "40",
-            "priceWithDisc": 2380,
-            "saleID": "S14838020856"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-07T14:12:17",
             "supplierArticle": "Туфли-1/Ася/F915/Бант",
             "nmId": 151976492,
@@ -29449,12 +29438,12 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-07T14:18:49",
-            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
-            "nmId": 176570836,
-            "techSize": "56 - 170",
-            "priceWithDisc": 1750,
-            "saleID": "S14838172144"
+            "date": "2025-01-07T14:12:11",
+            "supplierArticle": "Кросс-15/Н115-2/ВолкЗел",
+            "nmId": 205481004,
+            "techSize": "40",
+            "priceWithDisc": 2380,
+            "saleID": "S14838020856"
         }
     },
     {
@@ -29466,6 +29455,17 @@
             "techSize": "50- 170",
             "priceWithDisc": 1680,
             "saleID": "S14838172137"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-07T14:18:49",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "56 - 170",
+            "priceWithDisc": 1750,
+            "saleID": "S14838172144"
         }
     },
     {
@@ -30165,22 +30165,22 @@
         "model": "main.SalesTable",
         "fields": {
             "date": "2025-01-07T20:10:05",
-            "supplierArticle": "Джинсы-2/БананСер",
-            "nmId": 174097196,
-            "techSize": "30",
-            "priceWithDisc": -1200,
-            "saleID": "R397796249"
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "31",
+            "priceWithDisc": -1125,
+            "saleID": "R397796248"
         }
     },
     {
         "model": "main.SalesTable",
         "fields": {
             "date": "2025-01-07T20:10:05",
-            "supplierArticle": "Джинсы-2/017/БананЧер",
-            "nmId": 174079418,
-            "techSize": "31",
-            "priceWithDisc": -1125,
-            "saleID": "R397796248"
+            "supplierArticle": "Джинсы-2/БананСер",
+            "nmId": 174097196,
+            "techSize": "30",
+            "priceWithDisc": -1200,
+            "saleID": "R397796249"
         }
     },
     {
@@ -30318,23 +30318,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T08:40:10",
-            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
-            "nmId": 197951369,
-            "techSize": "36",
-            "priceWithDisc": 1980,
-            "saleID": "S14845846313"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T08:40:06",
             "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
             "nmId": 197951012,
             "techSize": "36",
             "priceWithDisc": 1931,
             "saleID": "S14845845888"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T08:40:10",
+            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
+            "nmId": 197951369,
+            "techSize": "36",
+            "priceWithDisc": 1980,
+            "saleID": "S14845846313"
         }
     },
     {
@@ -30494,23 +30494,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T10:33:05",
-            "supplierArticle": "Ботинки-12/Т15-1/ЗимаЧерн",
-            "nmId": 175020806,
-            "techSize": "38",
-            "priceWithDisc": 2160,
-            "saleID": "S14846894857"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T10:33:31",
             "supplierArticle": "Джинсы-2/БананСер",
             "nmId": 174097196,
             "techSize": "30",
             "priceWithDisc": 1200,
             "saleID": "S14846888382"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T10:33:05",
+            "supplierArticle": "Ботинки-12/Т15-1/ЗимаЧерн",
+            "nmId": 175020806,
+            "techSize": "38",
+            "priceWithDisc": 2160,
+            "saleID": "S14846894857"
         }
     },
     {
@@ -31055,23 +31055,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T14:25:47",
-            "supplierArticle": "Кросс-12/Y9-1/БелБеж",
-            "nmId": 201299128,
-            "techSize": "39",
-            "priceWithDisc": 1387.02,
-            "saleID": "S14852274765"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T14:26:37",
             "supplierArticle": "Туфли-12/Р46-3/КаблБеж",
             "nmId": 180238402,
             "techSize": "39",
             "priceWithDisc": 1980,
             "saleID": "S14852286587"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T14:25:47",
+            "supplierArticle": "Кросс-12/Y9-1/БелБеж",
+            "nmId": 201299128,
+            "techSize": "39",
+            "priceWithDisc": 1387.02,
+            "saleID": "S14852274765"
         }
     },
     {
@@ -31561,23 +31561,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T17:20:57",
-            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
-            "nmId": 197951012,
-            "techSize": "39",
-            "priceWithDisc": -1931,
-            "saleID": "R397983568"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T17:20:43",
             "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
             "nmId": 197951012,
             "techSize": "38",
             "priceWithDisc": -1931,
             "saleID": "R397983539"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T17:20:57",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "39",
+            "priceWithDisc": -1931,
+            "saleID": "R397983568"
         }
     },
     {
@@ -31880,23 +31880,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T19:21:26",
-            "supplierArticle": "Ботинки-10/Т13-1/ЗимаЧерн",
-            "nmId": 175020431,
-            "techSize": "38",
-            "priceWithDisc": 1920,
-            "saleID": "S14859249843"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T19:20:26",
             "supplierArticle": "Туфли-7/J106-3/чернглян",
             "nmId": 169560421,
             "techSize": "40",
             "priceWithDisc": 3920,
             "saleID": "S14859233448"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T19:21:26",
+            "supplierArticle": "Ботинки-10/Т13-1/ЗимаЧерн",
+            "nmId": 175020431,
+            "techSize": "38",
+            "priceWithDisc": 1920,
+            "saleID": "S14859249843"
         }
     },
     {
@@ -32012,23 +32012,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-08T20:21:36",
-            "supplierArticle": "Ботинки-7/223-3/ОсеньЧерн",
-            "nmId": 174984598,
-            "techSize": "38",
-            "priceWithDisc": 1700,
-            "saleID": "S14860083818"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-08T20:20:59",
             "supplierArticle": "Ботинки-18/Т42-1/ЧернЗимаКлеп",
             "nmId": 175516764,
             "techSize": "38",
             "priceWithDisc": 2400,
             "saleID": "S14860087463"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-08T20:21:36",
+            "supplierArticle": "Ботинки-7/223-3/ОсеньЧерн",
+            "nmId": 174984598,
+            "techSize": "38",
+            "priceWithDisc": 1700,
+            "saleID": "S14860083818"
         }
     },
     {
@@ -32199,23 +32199,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-09T10:54:44",
-            "supplierArticle": "Туфли-10/G25-3/БежСтразКож",
-            "nmId": 215403197,
-            "techSize": "38",
-            "priceWithDisc": 3528,
-            "saleID": "S14862511745"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-09T10:55:48",
             "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
             "nmId": 176570652,
             "techSize": "50 - 170",
             "priceWithDisc": 1540,
             "saleID": "S14862525700"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-09T10:54:44",
+            "supplierArticle": "Туфли-10/G25-3/БежСтразКож",
+            "nmId": 215403197,
+            "techSize": "38",
+            "priceWithDisc": 3528,
+            "saleID": "S14862511745"
         }
     },
     {
@@ -32235,9 +32235,9 @@
             "date": "2025-01-09T11:03:26",
             "supplierArticle": "Кросс-12/Y9-1/БелБеж",
             "nmId": 201299128,
-            "techSize": "39",
-            "priceWithDisc": 1387,
-            "saleID": "S14862661101"
+            "techSize": "37",
+            "priceWithDisc": 1349,
+            "saleID": "S14862661098"
         }
     },
     {
@@ -32246,9 +32246,9 @@
             "date": "2025-01-09T11:03:26",
             "supplierArticle": "Кросс-12/Y9-1/БелБеж",
             "nmId": 201299128,
-            "techSize": "37",
-            "priceWithDisc": 1349,
-            "saleID": "S14862661098"
+            "techSize": "39",
+            "priceWithDisc": 1387,
+            "saleID": "S14862661101"
         }
     },
     {
@@ -32485,23 +32485,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-09T13:26:10",
-            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
-            "nmId": 175493424,
-            "techSize": "38",
-            "priceWithDisc": 2000,
-            "saleID": "S14865422129"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-09T13:28:03",
             "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
             "nmId": 176570189,
             "techSize": "62 - 170",
             "priceWithDisc": 1680,
             "saleID": "S14865456032"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-09T13:26:10",
+            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
+            "nmId": 175493424,
+            "techSize": "38",
+            "priceWithDisc": 2000,
+            "saleID": "S14865422129"
         }
     },
     {
@@ -32895,9 +32895,9 @@
             "date": "2025-01-09T16:35:15",
             "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
             "nmId": 176570652,
-            "techSize": "62 - 164",
+            "techSize": "58 - 170",
             "priceWithDisc": 1540,
-            "saleID": "S14869689686"
+            "saleID": "S14869689687"
         }
     },
     {
@@ -32906,9 +32906,9 @@
             "date": "2025-01-09T16:35:15",
             "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
             "nmId": 176570652,
-            "techSize": "58 - 170",
+            "techSize": "62 - 164",
             "priceWithDisc": 1540,
-            "saleID": "S14869689687"
+            "saleID": "S14869689686"
         }
     },
     {
@@ -36875,22 +36875,22 @@
         "model": "main.SalesTable",
         "fields": {
             "date": "2025-01-12T14:13:35",
-            "supplierArticle": "Кросс-22/G6-2 /БелЧернДГ",
-            "nmId": 243207762,
-            "techSize": "38",
-            "priceWithDisc": 2940,
-            "saleID": "S14911975970"
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "39",
+            "priceWithDisc": 3430,
+            "saleID": "S14911975965"
         }
     },
     {
         "model": "main.SalesTable",
         "fields": {
             "date": "2025-01-12T14:13:35",
-            "supplierArticle": "Кроссовки-1/М26-7/корич",
-            "nmId": 169580339,
-            "techSize": "39",
-            "priceWithDisc": 3430,
-            "saleID": "S14911975965"
+            "supplierArticle": "Кросс-22/G6-2 /БелЧернДГ",
+            "nmId": 243207762,
+            "techSize": "38",
+            "priceWithDisc": 2940,
+            "saleID": "S14911975970"
         }
     },
     {
@@ -42957,23 +42957,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-17T16:32:38",
-            "supplierArticle": "Лоферы-2/J98-1/цепоч",
-            "nmId": 169562626,
-            "techSize": "39",
-            "priceWithDisc": 2100,
-            "saleID": "S14993571581"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-17T16:34:38",
             "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
             "nmId": 174845344,
             "techSize": "37",
             "priceWithDisc": 5015,
             "saleID": "S14993613061"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-17T16:32:38",
+            "supplierArticle": "Лоферы-2/J98-1/цепоч",
+            "nmId": 169562626,
+            "techSize": "39",
+            "priceWithDisc": 2100,
+            "saleID": "S14993571581"
         }
     },
     {
@@ -43639,23 +43639,23 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-18T17:28:12",
-            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
-            "nmId": 176570836,
-            "techSize": "52 - 170",
-            "priceWithDisc": -1820,
-            "saleID": "R400280976"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-18T17:28:50",
             "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
             "nmId": 176570836,
             "techSize": "54 - 164",
             "priceWithDisc": -1820,
             "saleID": "R400281246"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-18T17:28:12",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "52 - 170",
+            "priceWithDisc": -1820,
+            "saleID": "R400280976"
         }
     },
     {
@@ -52021,17 +52021,6 @@
     {
         "model": "main.SalesTable",
         "fields": {
-            "date": "2025-01-26T13:30:58",
-            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
-            "nmId": 177768474,
-            "techSize": "39",
-            "priceWithDisc": -4480,
-            "saleID": "R402096443"
-        }
-    },
-    {
-        "model": "main.SalesTable",
-        "fields": {
             "date": "2025-01-26T11:10:49",
             "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
             "nmId": 174845344,
@@ -52736,12 +52725,2498 @@
     {
         "model": "main.SalesTable",
         "fields": {
+            "date": "2025-01-26T12:00:11",
+            "supplierArticle": "Ботинки-15/Т45-1/ЧернФешнЗим",
+            "nmId": 175318100,
+            "techSize": "39",
+            "priceWithDisc": -2400.14,
+            "saleID": "R2001019041"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-26T12:00:02",
+            "supplierArticle": "Ботинки-16/Т31-3/БежЗимСтраз",
+            "nmId": 175493427,
+            "techSize": "40",
+            "priceWithDisc": -2400,
+            "saleID": "R2001019055"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-26T13:30:58",
+            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
+            "nmId": 177768474,
+            "techSize": "39",
+            "priceWithDisc": -4480,
+            "saleID": "R402096443"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
             "date": "2025-01-26T20:53:47",
             "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
             "nmId": 176570652,
             "techSize": "58 - 170",
             "priceWithDisc": 2170.1,
             "saleID": "S15139298149"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T05:19:49",
+            "supplierArticle": "Ботильоны-1/3191/ЧернМолн",
+            "nmId": 201015865,
+            "techSize": "37",
+            "priceWithDisc": 5100,
+            "saleID": "S15139559815"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T06:43:45",
+            "supplierArticle": "Ботинки-24/А-3022/ЧернЗимКарман",
+            "nmId": 177769125,
+            "techSize": "40",
+            "priceWithDisc": 2480,
+            "saleID": "S15139727335"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T08:22:14",
+            "supplierArticle": "Босоножки-1/Ася/А186/КаблукиЧер",
+            "nmId": 163265775,
+            "techSize": "40",
+            "priceWithDisc": 3885,
+            "saleID": "S15140114052"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T08:52:35",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "39",
+            "priceWithDisc": 3710,
+            "saleID": "S15140311610"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T09:20:16",
+            "supplierArticle": "Лоферы-7/J-206-2/СерКож",
+            "nmId": 255973603,
+            "techSize": "37",
+            "priceWithDisc": -2850,
+            "saleID": "R402281898"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T09:28:27",
+            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
+            "nmId": 175493424,
+            "techSize": "38",
+            "priceWithDisc": 3120,
+            "saleID": "S15140602247"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T10:01:17",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "62 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15140930002"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T10:26:11",
+            "supplierArticle": "Кросс-22/G6-5/ЧернДГ",
+            "nmId": 243208090,
+            "techSize": "39",
+            "priceWithDisc": 2800,
+            "saleID": "S15141362052"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T10:37:27",
+            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
+            "nmId": 177768474,
+            "techSize": "40",
+            "priceWithDisc": 3120,
+            "saleID": "S15141569339"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T10:40:49",
+            "supplierArticle": "Кросс-22/G6-5/ЧернДГ",
+            "nmId": 243208090,
+            "techSize": "37",
+            "priceWithDisc": 2800,
+            "saleID": "S15141631384"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:06:40",
+            "supplierArticle": "Ботинки-8/Т16-1/ЗимаЧерн",
+            "nmId": 174989626,
+            "techSize": "40",
+            "priceWithDisc": 2080,
+            "saleID": "S15142096002"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:10:11",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "52 - 164",
+            "priceWithDisc": 2170,
+            "saleID": "S15142151564"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:07:59",
+            "supplierArticle": "Туфли-10/319L/ЧернСтразЛак",
+            "nmId": 173646871,
+            "techSize": "40",
+            "priceWithDisc": 4000.06,
+            "saleID": "S15142117338"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:12:55",
+            "supplierArticle": "Кросс-22/G6-2 /БелЧернДГ",
+            "nmId": 243207762,
+            "techSize": "41",
+            "priceWithDisc": 2800,
+            "saleID": "S15142227157"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:27:57",
+            "supplierArticle": "Ботинки-6/955-1/ОсеньЧерн",
+            "nmId": 174879154,
+            "techSize": "39",
+            "priceWithDisc": 1666,
+            "saleID": "S15142514809"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T11:37:18",
+            "supplierArticle": "Кросс-15/Н115-1/ВолкБеж",
+            "nmId": 205477591,
+            "techSize": "41",
+            "priceWithDisc": 2744,
+            "saleID": "S15142684209"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:02:00",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "40",
+            "priceWithDisc": 4230,
+            "saleID": "S15143220691"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:11:41",
+            "supplierArticle": "Сандали-12/С605-3/КожПлатБелБеж",
+            "nmId": 226078968,
+            "techSize": "39",
+            "priceWithDisc": 3700,
+            "saleID": "S15143405694"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:42:38",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "46 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15144097035"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:42:21",
+            "supplierArticle": "Туфли-13/А1-452/ЧернЛакСтраз",
+            "nmId": 194327822,
+            "techSize": "38",
+            "priceWithDisc": 2548,
+            "saleID": "S15144130961"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:45:06",
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "38",
+            "priceWithDisc": 3430,
+            "saleID": "S15144192061"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T12:50:55",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "40",
+            "priceWithDisc": 5185,
+            "saleID": "S15144306044"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:12:37",
+            "supplierArticle": "Ботинки-6/955-1/ОсеньЧерн",
+            "nmId": 174879154,
+            "techSize": "41",
+            "priceWithDisc": 1700,
+            "saleID": "S15144800802"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:24:26",
+            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
+            "nmId": 177768474,
+            "techSize": "38",
+            "priceWithDisc": 2800,
+            "saleID": "S15145092524"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:36:11",
+            "supplierArticle": "Босоножки-1/Ася/А186/КаблукиЧер",
+            "nmId": 163265775,
+            "techSize": "38",
+            "priceWithDisc": 3885,
+            "saleID": "S15145357746"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:46:01",
+            "supplierArticle": "Ботинки-18/Т42-1/ЧернЗимаКлеп",
+            "nmId": 175516764,
+            "techSize": "37",
+            "priceWithDisc": 2160,
+            "saleID": "S15145588386"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:51:53",
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "39",
+            "priceWithDisc": 3430,
+            "saleID": "S15145717101"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T13:56:05",
+            "supplierArticle": "Туфли-16/DA002/БежЛакКабл",
+            "nmId": 210822270,
+            "techSize": "39",
+            "priceWithDisc": 3200,
+            "saleID": "S15145825654"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T14:49:26",
+            "supplierArticle": "Ботинки-17/Т32-1/ЧернЗимШнКлас",
+            "nmId": 175515619,
+            "techSize": "38",
+            "priceWithDisc": 1920,
+            "saleID": "S15147031870"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:05:52",
+            "supplierArticle": "Бант/Рем-1/ F915",
+            "nmId": 241330497,
+            "techSize": "0",
+            "priceWithDisc": 650,
+            "saleID": "S15147455654"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:14:13",
+            "supplierArticle": "Кросс-14/Н116-1/КласЧерн",
+            "nmId": 205420292,
+            "techSize": "36",
+            "priceWithDisc": 3500,
+            "saleID": "S15147646326"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:16:11",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "40",
+            "priceWithDisc": 2336,
+            "saleID": "S15147685872"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:17:22",
+            "supplierArticle": "Туфли-18/DA007/БежЛак",
+            "nmId": 210822420,
+            "techSize": "37",
+            "priceWithDisc": 3335,
+            "saleID": "S15147742650"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:22:28",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "40",
+            "priceWithDisc": -5185,
+            "saleID": "R402377751"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:24:38",
+            "supplierArticle": "Туфли-9/G25-1/стразрем",
+            "nmId": 169576788,
+            "techSize": "34",
+            "priceWithDisc": 4000,
+            "saleID": "S15147901956"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:30:30",
+            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
+            "nmId": 177768474,
+            "techSize": "36",
+            "priceWithDisc": 2800,
+            "saleID": "S15148066195"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:34:47",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "37",
+            "priceWithDisc": 4770,
+            "saleID": "S15148162681"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:42:12",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "38",
+            "priceWithDisc": 4411.63,
+            "saleID": "S15148357449"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:45:26",
+            "supplierArticle": "Кросс-20/X003-4/КучинСер",
+            "nmId": 243056716,
+            "techSize": "41",
+            "priceWithDisc": 3080,
+            "saleID": "S15148441297"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:56:21",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "50 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15148685557"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T16:18:13",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "54 - 170",
+            "priceWithDisc": -2100,
+            "saleID": "R402397966"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T16:19:29",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "52 - 170",
+            "priceWithDisc": 2170.1,
+            "saleID": "S15149310262"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T16:37:14",
+            "supplierArticle": "Кросс-22/G6-5/ЧернДГ",
+            "nmId": 243208090,
+            "techSize": "40",
+            "priceWithDisc": 2800,
+            "saleID": "S15149765732"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T16:52:30",
+            "supplierArticle": "Туфли-8/J105-2/БелКожа",
+            "nmId": 215480569,
+            "techSize": "36",
+            "priceWithDisc": 3600,
+            "saleID": "S15150198952"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T16:53:07",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "39",
+            "priceWithDisc": 4589.99,
+            "saleID": "S15150199671"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:01:09",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "58 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15150400825"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:15:50",
+            "supplierArticle": "Кросс-14/Н116-3/КласСер",
+            "nmId": 205423664,
+            "techSize": "41",
+            "priceWithDisc": 2310,
+            "saleID": "S15150818415"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:22:16",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": -5185,
+            "saleID": "R402425037"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:28:04",
+            "supplierArticle": "Кросс-11/Н117-2/ПремиатБеж",
+            "nmId": 190767110,
+            "techSize": "39",
+            "priceWithDisc": 3430,
+            "saleID": "S15151160091"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:28:46",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": 5185,
+            "saleID": "S15151192344"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:23:17",
+            "supplierArticle": "Ботинки-13/Т8-1/ЗимаЧерн",
+            "nmId": 175023326,
+            "techSize": "38",
+            "priceWithDisc": 1920,
+            "saleID": "S15151009953"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:38:41",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "42 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15151529937"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:46:38",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "38",
+            "priceWithDisc": 4770,
+            "saleID": "S15151697758"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:05:29",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "39",
+            "priceWithDisc": 2457,
+            "saleID": "S15152237911"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:14:54",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "42 - 164",
+            "priceWithDisc": 1680,
+            "saleID": "S15152441685"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:16:13",
+            "supplierArticle": "Ботинки-11/К3-2/ОсенЧернЗамш",
+            "nmId": 174845345,
+            "techSize": "37",
+            "priceWithDisc": 3060,
+            "saleID": "S15152484770"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:33:29",
+            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
+            "nmId": 175493424,
+            "techSize": "37",
+            "priceWithDisc": 1920,
+            "saleID": "S15152957608"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:51:06",
+            "supplierArticle": "Ботинки-27/А-3046/ЧернЗима",
+            "nmId": 177770598,
+            "techSize": "37",
+            "priceWithDisc": 2320,
+            "saleID": "S15153386197"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T19:00:38",
+            "supplierArticle": "Ботинки-13/Т8-1/ЗимаЧерн",
+            "nmId": 175023326,
+            "techSize": "38",
+            "priceWithDisc": 1920,
+            "saleID": "S15153622063"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T18:54:55",
+            "supplierArticle": "Ботинки-24/А-3022/ЧернЗимКарман",
+            "nmId": 177769125,
+            "techSize": "38",
+            "priceWithDisc": 2480,
+            "saleID": "S15153499645"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T19:42:17",
+            "supplierArticle": "Ботинки-19/Т51-1/ЧернЗимаЧелси",
+            "nmId": 175517194,
+            "techSize": "39",
+            "priceWithDisc": 3200,
+            "saleID": "S15154446840"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T19:48:05",
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "38",
+            "priceWithDisc": -3429.71,
+            "saleID": "R402486294"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T19:46:01",
+            "supplierArticle": "Ботинки-26/А-3013/А-3041/ЧернЗима",
+            "nmId": 177981613,
+            "techSize": "38",
+            "priceWithDisc": 2000,
+            "saleID": "S15154510372"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T20:09:22",
+            "supplierArticle": "Кросс-15/Н115-1/ВолкБеж",
+            "nmId": 205477591,
+            "techSize": "41",
+            "priceWithDisc": 2800,
+            "saleID": "S15154869762"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T20:09:37",
+            "supplierArticle": "Джинсы-1/010/АмерЧерн",
+            "nmId": 174074658,
+            "techSize": "36",
+            "priceWithDisc": 1050,
+            "saleID": "S15154891200"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T20:30:24",
+            "supplierArticle": "Ботинки-6/955-1/ОсеньЧерн",
+            "nmId": 174879154,
+            "techSize": "38",
+            "priceWithDisc": 1700,
+            "saleID": "S15155182343"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T20:45:30",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "41",
+            "priceWithDisc": 2970,
+            "saleID": "S15155381085"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T21:26:24",
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "41",
+            "priceWithDisc": 3430,
+            "saleID": "S15155595651"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T21:39:25",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "52 - 170",
+            "priceWithDisc": 1820,
+            "saleID": "S15155623561"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T15:39:57",
+            "supplierArticle": "Ботинки-7/223-3/ОсеньЧерн",
+            "nmId": 174984598,
+            "techSize": "38",
+            "priceWithDisc": 1700.12,
+            "saleID": "S15148297330"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-27T17:25:43",
+            "supplierArticle": "Кросс-15/Н115-2/ВолкЗел",
+            "nmId": 205481004,
+            "techSize": "40",
+            "priceWithDisc": 2744,
+            "saleID": "S15151108756"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T05:12:11",
+            "supplierArticle": "Кросс-12/Y9-3/Беж",
+            "nmId": 201299323,
+            "techSize": "39",
+            "priceWithDisc": 2628,
+            "saleID": "S15155734678"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T06:59:13",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "38",
+            "priceWithDisc": 4590,
+            "saleID": "S15155923050"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T07:24:51",
+            "supplierArticle": "Ботинки-19/Т51-1/ЧернЗимаЧелси",
+            "nmId": 175517194,
+            "techSize": "38",
+            "priceWithDisc": 3200,
+            "saleID": "S15155999432"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T07:58:23",
+            "supplierArticle": "Ботинки-27/А-3046/ЧернЗима",
+            "nmId": 177770598,
+            "techSize": "36",
+            "priceWithDisc": 3120,
+            "saleID": "S15156101309"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T09:53:35",
+            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
+            "nmId": 197951369,
+            "techSize": "39",
+            "priceWithDisc": 2520,
+            "saleID": "S15156847215"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T10:08:05",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "40",
+            "priceWithDisc": 5185,
+            "saleID": "S15157012288"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T10:49:24",
+            "supplierArticle": "Ботинки-9/Т38-2/ЗимаЧернЗамш",
+            "nmId": 175014345,
+            "techSize": "36",
+            "priceWithDisc": 2160,
+            "saleID": "S15157655603"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T11:31:19",
+            "supplierArticle": "Кросс-5/М26-3/беж",
+            "nmId": 190102847,
+            "techSize": "38",
+            "priceWithDisc": 3430,
+            "saleID": "S15158369802"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T11:43:15",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "56 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15158599509"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T11:47:24",
+            "supplierArticle": "Туфли-10/319L/ЧернСтразЛак",
+            "nmId": 173646871,
+            "techSize": "40",
+            "priceWithDisc": 4000,
+            "saleID": "S15158653374"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T11:21:48",
+            "supplierArticle": "Туфли-16/DA001/ЧернЛакКабл",
+            "nmId": 210804097,
+            "techSize": "41",
+            "priceWithDisc": -4000,
+            "saleID": "R402560022"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T12:26:13",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": 5185,
+            "saleID": "S15159402229"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:03:32",
+            "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
+            "nmId": 176570652,
+            "techSize": "62 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15160148631"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:13:33",
+            "supplierArticle": "Туфли-10/319L/ЧернСтразЛак",
+            "nmId": 173646871,
+            "techSize": "36",
+            "priceWithDisc": 4000,
+            "saleID": "S15160361125"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:11:55",
+            "supplierArticle": "Джинсы-1/010/АмерЧерн",
+            "nmId": 174074658,
+            "techSize": "36",
+            "priceWithDisc": -1050,
+            "saleID": "R402582191"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:20:57",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "39",
+            "priceWithDisc": 5185,
+            "saleID": "S15160539711"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:44:02",
+            "supplierArticle": "Ботинки-23/А-3014/А-3042/ЧернЗимБежПлат",
+            "nmId": 177906669,
+            "techSize": "38",
+            "priceWithDisc": 2400,
+            "saleID": "S15161017780"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:43:33",
+            "supplierArticle": "Ботинки-25/А-3019/ЧернЗима",
+            "nmId": 177769780,
+            "techSize": "37",
+            "priceWithDisc": 2720,
+            "saleID": "S15161008867"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T13:43:22",
+            "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
+            "nmId": 176570652,
+            "techSize": "60 - 170",
+            "priceWithDisc": 1540,
+            "saleID": "S15161016164"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:10:58",
+            "supplierArticle": "Ботильоны-2/3304/РемСтраз",
+            "nmId": 201016282,
+            "techSize": "35",
+            "priceWithDisc": 5100,
+            "saleID": "S15161576582"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:27:43",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "39",
+            "priceWithDisc": 2336,
+            "saleID": "S15161928053"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:33:49",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "40",
+            "priceWithDisc": 4674.6,
+            "saleID": "S15162064451"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:40:49",
+            "supplierArticle": "Свитшот-1/231001/БазЧер",
+            "nmId": 174207518,
+            "techSize": "46",
+            "priceWithDisc": -1980,
+            "saleID": "R402609229"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:38:53",
+            "supplierArticle": "Ботинки-27/А-3046/ЧернЗима",
+            "nmId": 177770598,
+            "techSize": "38",
+            "priceWithDisc": 2320,
+            "saleID": "S15162218685"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T14:48:11",
+            "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
+            "nmId": 176570652,
+            "techSize": "46 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15162372304"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:10:26",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "36",
+            "priceWithDisc": -4590,
+            "saleID": "R402618695"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:19:55",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "39",
+            "priceWithDisc": 3710,
+            "saleID": "S15163102881"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:23:09",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "39",
+            "priceWithDisc": 2790,
+            "saleID": "S15163139919"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:31:22",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "44 - 170",
+            "priceWithDisc": 2170.04,
+            "saleID": "S15163318182"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:34:38",
+            "supplierArticle": "Ботинки-23/А-3014/А-3042/ЧернЗимБежПлат",
+            "nmId": 177906669,
+            "techSize": "40",
+            "priceWithDisc": 2400,
+            "saleID": "S15163395044"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:41:18",
+            "supplierArticle": "Ботинки-24/А-3022/ЧернЗимКарман",
+            "nmId": 177769125,
+            "techSize": "40",
+            "priceWithDisc": 2480,
+            "saleID": "S15163559486"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:50:17",
+            "supplierArticle": "Лоферы-7/J-206-3/БежКож",
+            "nmId": 255974043,
+            "techSize": "39",
+            "priceWithDisc": -2850,
+            "saleID": "R402632184"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T15:48:07",
+            "supplierArticle": "Свитшот-1/231001/БазБел",
+            "nmId": 174207514,
+            "techSize": "44",
+            "priceWithDisc": 2328,
+            "saleID": "S15163726497"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:01:40",
+            "supplierArticle": "Брюки-1/1777-555#7/ШерстСерОсень",
+            "nmId": 176570189,
+            "techSize": "42 - 164",
+            "priceWithDisc": 2170,
+            "saleID": "S15164009244"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:13:06",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "40",
+            "priceWithDisc": 2790,
+            "saleID": "S15164306927"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:13:52",
+            "supplierArticle": "Ботильоны-1/3191/ЧернМолн",
+            "nmId": 201015865,
+            "techSize": "40",
+            "priceWithDisc": 5100,
+            "saleID": "S15164290854"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:26:36",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "39",
+            "priceWithDisc": 4590,
+            "saleID": "S15164589915"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:51:30",
+            "supplierArticle": "Ботинки-11/Q5-1/ОсеньЧерн",
+            "nmId": 174842310,
+            "techSize": "38",
+            "priceWithDisc": 3315,
+            "saleID": "S15165248517"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:51:30",
+            "supplierArticle": "Ботинки-11/Q5-1/ОсеньЧерн",
+            "nmId": 174842310,
+            "techSize": "37",
+            "priceWithDisc": 3315,
+            "saleID": "S15165248516"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T16:56:13",
+            "supplierArticle": "Кросс-14/Н116-2/КласКрасн",
+            "nmId": 205423663,
+            "techSize": "41",
+            "priceWithDisc": 3010,
+            "saleID": "S15165363930"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:03:40",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "38",
+            "priceWithDisc": 4410,
+            "saleID": "S15165522805"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:04:22",
+            "supplierArticle": "Джинсы-2/БананСер",
+            "nmId": 174097196,
+            "techSize": "34",
+            "priceWithDisc": 1425.61,
+            "saleID": "S15165531839"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:04:24",
+            "supplierArticle": "Джинсы-2/БананСер",
+            "nmId": 174097196,
+            "techSize": "33",
+            "priceWithDisc": 1425.61,
+            "saleID": "S15165534287"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:26:14",
+            "supplierArticle": "Свитшот-1/231001/БазЧер",
+            "nmId": 174207518,
+            "techSize": "44",
+            "priceWithDisc": 2400,
+            "saleID": "S15166142384"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:37:28",
+            "supplierArticle": "Ботильоны-2/3304/РемСтраз",
+            "nmId": 201016282,
+            "techSize": "41",
+            "priceWithDisc": 5100,
+            "saleID": "S15166464828"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:45:56",
+            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
+            "nmId": 197951369,
+            "techSize": "38",
+            "priceWithDisc": 2520,
+            "saleID": "S15166655321"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:50:52",
+            "supplierArticle": "Кросс-22/G6-2 /БелЧернДГ",
+            "nmId": 243207762,
+            "techSize": "41",
+            "priceWithDisc": 2800,
+            "saleID": "S15166844061"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T17:55:51",
+            "supplierArticle": "Джинсы-2/БананСер",
+            "nmId": 174097196,
+            "techSize": "33",
+            "priceWithDisc": -1425.61,
+            "saleID": "R402682533"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:03:53",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "41",
+            "priceWithDisc": 2940,
+            "saleID": "S15167142669"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:09:25",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "38",
+            "priceWithDisc": 4410,
+            "saleID": "S15167284661"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:18:58",
+            "supplierArticle": "Туфли-8/J105-5/чрглянрем",
+            "nmId": 169574828,
+            "techSize": "38",
+            "priceWithDisc": 3200,
+            "saleID": "S15167563498"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:17:02",
+            "supplierArticle": "Туфли-10/319L/ЧернСтразЛак",
+            "nmId": 173646871,
+            "techSize": "39",
+            "priceWithDisc": 4000,
+            "saleID": "S15167485634"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:22:08",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "50 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15167651395"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:37:20",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "38",
+            "priceWithDisc": 2211.84,
+            "saleID": "S15168025836"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:37:22",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "38",
+            "priceWithDisc": 1931,
+            "saleID": "S15168002301"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:45:48",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5185,
+            "saleID": "S15168215921"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:50:10",
+            "supplierArticle": "Ботинки-14/Т49-1/ЗимаЧерн",
+            "nmId": 175047587,
+            "techSize": "38",
+            "priceWithDisc": 1920,
+            "saleID": "S15168331887"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T18:58:30",
+            "supplierArticle": "Кросс-4/М33-2/беллеоп",
+            "nmId": 169661799,
+            "techSize": "40",
+            "priceWithDisc": 2520,
+            "saleID": "S15168543807"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T19:16:39",
+            "supplierArticle": "Туфли-10/G25-4/замшстраз",
+            "nmId": 169578331,
+            "techSize": "38",
+            "priceWithDisc": 4000,
+            "saleID": "S15168911872"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T19:25:14",
+            "supplierArticle": "Ботинки-7/223-3-1/ОсеньБеж",
+            "nmId": 174978940,
+            "techSize": "38",
+            "priceWithDisc": 1700.12,
+            "saleID": "S15169100968"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T19:41:37",
+            "supplierArticle": "Кросс-18/Y29-6/ДутышБелШнур",
+            "nmId": 241556371,
+            "techSize": "40",
+            "priceWithDisc": 3430,
+            "saleID": "S15169419890"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T19:40:44",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "36",
+            "priceWithDisc": 2970,
+            "saleID": "S15169388945"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T19:44:42",
+            "supplierArticle": "Кросс-12/Y9-2/БелЗел",
+            "nmId": 201299232,
+            "techSize": "40",
+            "priceWithDisc": 2628.14,
+            "saleID": "S15169474415"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:14:02",
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "32",
+            "priceWithDisc": 1050,
+            "saleID": "S15169925679"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:15:38",
+            "supplierArticle": "Кросс-19/X009-2/КучинСВСер",
+            "nmId": 243054638,
+            "techSize": "36",
+            "priceWithDisc": 3920,
+            "saleID": "S15169930158"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:16:42",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "40",
+            "priceWithDisc": 2336,
+            "saleID": "S15169947081"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:16:42",
+            "supplierArticle": "Кросс-22/G6-5/ЧернДГ",
+            "nmId": 243208090,
+            "techSize": "40",
+            "priceWithDisc": 2800,
+            "saleID": "S15169947082"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:14:24",
+            "supplierArticle": "Ботинки-10/Т13-1/ЗимаЧерн",
+            "nmId": 175020431,
+            "techSize": "40",
+            "priceWithDisc": 1919.98,
+            "saleID": "S15169927175"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:17:58",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": 5185,
+            "saleID": "S15169979556"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:17:18",
+            "supplierArticle": "Туфли-18/DA006/ЧернЛак",
+            "nmId": 210821353,
+            "techSize": "40",
+            "priceWithDisc": 4000,
+            "saleID": "S15169972893"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:29:14",
+            "supplierArticle": "Ботинки-23/А-3014/А-3042/ЧернЗимБежПлат",
+            "nmId": 177906669,
+            "techSize": "38",
+            "priceWithDisc": 3120,
+            "saleID": "S15170145929"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:37:39",
+            "supplierArticle": "Ботинки-11/К3-2/ОсенЧернЗамш",
+            "nmId": 174845345,
+            "techSize": "39",
+            "priceWithDisc": 3060,
+            "saleID": "S15170259119"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:41:39",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "36",
+            "priceWithDisc": 4590,
+            "saleID": "S15170319357"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T20:59:41",
+            "supplierArticle": "Туфли-18/DA006/ЧернЛак",
+            "nmId": 210821353,
+            "techSize": "39",
+            "priceWithDisc": 4000,
+            "saleID": "S15170502147"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T21:37:58",
+            "supplierArticle": "Ботинки-6/955-1/ОсеньЧерн",
+            "nmId": 174879154,
+            "techSize": "39",
+            "priceWithDisc": 1700,
+            "saleID": "S15170608113"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T22:41:00",
+            "supplierArticle": "Кросс-13/J200-4/КедЗел",
+            "nmId": 201416982,
+            "techSize": "40",
+            "priceWithDisc": 675,
+            "saleID": "S15170649226"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T06:43:15",
+            "supplierArticle": "Ботинки-8/Т16-1/ЗимаЧерн",
+            "nmId": 174989626,
+            "techSize": "38",
+            "priceWithDisc": 2080,
+            "saleID": "S15170864821"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-28T12:47:06",
+            "supplierArticle": "Сандали-13/С603-1/КожРемЧерн",
+            "nmId": 226084002,
+            "techSize": "37",
+            "priceWithDisc": 4532.6,
+            "saleID": "S15159824836"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T09:06:05",
+            "supplierArticle": "Кросс-14/Н116-1/КласЧерн",
+            "nmId": 205420292,
+            "techSize": "41",
+            "priceWithDisc": 3500,
+            "saleID": "S15171398815"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T10:02:42",
+            "supplierArticle": "Кросс-15/Н115-2/ВолкЗел",
+            "nmId": 205481004,
+            "techSize": "37",
+            "priceWithDisc": 2800,
+            "saleID": "S15171854480"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T10:19:29",
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "32",
+            "priceWithDisc": 1050,
+            "saleID": "S15172118792"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:18:54",
+            "supplierArticle": "Ботинки-23/А-3014/А-3042/ЧернЗимБежПлат",
+            "nmId": 177906669,
+            "techSize": "37",
+            "priceWithDisc": -3040,
+            "saleID": "R402811591"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T10:12:40",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "38",
+            "priceWithDisc": 3710,
+            "saleID": "S15172008704"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T10:49:02",
+            "supplierArticle": "Кросс-17/GW201-2/ДутышЧБШнур",
+            "nmId": 243211118,
+            "techSize": "36",
+            "priceWithDisc": 2940,
+            "saleID": "S15172576133"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T11:07:43",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "39",
+            "priceWithDisc": 2336,
+            "saleID": "S15172873640"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:51:32",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "39",
+            "priceWithDisc": -5185,
+            "saleID": "R402820406"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T11:20:43",
+            "supplierArticle": "Туфли-10/319L/ЧернСтразЛак",
+            "nmId": 173646871,
+            "techSize": "37",
+            "priceWithDisc": 4000,
+            "saleID": "S15173085531"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T11:29:06",
+            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
+            "nmId": 175493424,
+            "techSize": "40",
+            "priceWithDisc": 1920,
+            "saleID": "S15173237185"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T11:58:46",
+            "supplierArticle": "Ботинки-22/А-3070/ЧернЗимЧелси",
+            "nmId": 177768474,
+            "techSize": "38",
+            "priceWithDisc": 2800,
+            "saleID": "S15173767399"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:15:51",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "40",
+            "priceWithDisc": 4589.87,
+            "saleID": "S15174105781"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:44:53",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "36",
+            "priceWithDisc": -5100,
+            "saleID": "R402836471"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:19:22",
+            "supplierArticle": "Свитшот-1/231001/БазЧер",
+            "nmId": 174207518,
+            "techSize": "50",
+            "priceWithDisc": 2160,
+            "saleID": "S15174193496"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:37:52",
+            "supplierArticle": "Брюки-1/1777-555#11/ШерстЧернОсень",
+            "nmId": 176570652,
+            "techSize": "62 - 170",
+            "priceWithDisc": 1540,
+            "saleID": "S15174534224"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:39:35",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "36",
+            "priceWithDisc": 4590,
+            "saleID": "S15174574248"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T12:51:25",
+            "supplierArticle": "Ботинки-6/955-1/ОсеньЧерн",
+            "nmId": 174879154,
+            "techSize": "41",
+            "priceWithDisc": 1700,
+            "saleID": "S15174834491"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:08:46",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5185,
+            "saleID": "S15175181657"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:18:37",
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "36",
+            "priceWithDisc": 1050,
+            "saleID": "S15175384755"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:14:49",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "36",
+            "priceWithDisc": 2457,
+            "saleID": "S15175303841"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T14:28:54",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "40",
+            "priceWithDisc": -4410,
+            "saleID": "R402849619"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:38:45",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "60 - 164",
+            "priceWithDisc": 2083.2,
+            "saleID": "S15175783813"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:38:39",
+            "supplierArticle": "Ботинки-24/А-3022/ЧернЗимКарман",
+            "nmId": 177769125,
+            "techSize": "38",
+            "priceWithDisc": 2480,
+            "saleID": "S15175814286"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:47:54",
+            "supplierArticle": "Ботинки-15/Т45-1/ЧернФешнЗим",
+            "nmId": 175318100,
+            "techSize": "38",
+            "priceWithDisc": 2160,
+            "saleID": "S15176011010"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T13:45:53",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5185,
+            "saleID": "S15175970996"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T14:09:09",
+            "supplierArticle": "Туфли-10/G25-4/замшстраз",
+            "nmId": 169578331,
+            "techSize": "38",
+            "priceWithDisc": 4000,
+            "saleID": "S15176442478"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T14:21:21",
+            "supplierArticle": "Туфли-8/J105-5/чрглянрем",
+            "nmId": 169574828,
+            "techSize": "38",
+            "priceWithDisc": 3200,
+            "saleID": "S15176681746"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T14:28:39",
+            "supplierArticle": "Свитшот-1/231001/БазЧер",
+            "nmId": 174207518,
+            "techSize": "46",
+            "priceWithDisc": 2400,
+            "saleID": "S15176855907"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:04:13",
+            "supplierArticle": "Кросс-22/G6-5/ЧернДГ",
+            "nmId": 243208090,
+            "techSize": "41",
+            "priceWithDisc": 2800,
+            "saleID": "S15177593990"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:09:03",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": 5185,
+            "saleID": "S15177680522"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:11:32",
+            "supplierArticle": "Ботинки-14/Т49-1/ЗимаЧерн",
+            "nmId": 175047587,
+            "techSize": "36",
+            "priceWithDisc": 1920,
+            "saleID": "S15177775894"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:14:31",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "41",
+            "priceWithDisc": 4590,
+            "saleID": "S15177820869"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:17:21",
+            "supplierArticle": "Лоферы-7/J-206-2/СерКож",
+            "nmId": 255973603,
+            "techSize": "37",
+            "priceWithDisc": 2850,
+            "saleID": "S15177883980"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:19:21",
+            "supplierArticle": "Ботинки-17/Т32-1/ЧернЗимШнКлас",
+            "nmId": 175515619,
+            "techSize": "37",
+            "priceWithDisc": 1920,
+            "saleID": "S15177918798"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:19:21",
+            "supplierArticle": "Ботинки-16/Т31-1/ЧернЗимСтраз",
+            "nmId": 175493424,
+            "techSize": "37",
+            "priceWithDisc": 1920,
+            "saleID": "S15177918797"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:30:52",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "41",
+            "priceWithDisc": 2457,
+            "saleID": "S15178201988"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:28:53",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5185,
+            "saleID": "S15178149492"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:36:38",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "38",
+            "priceWithDisc": 2790,
+            "saleID": "S15178329616"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:52:07",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "36",
+            "priceWithDisc": 5185,
+            "saleID": "S15178691458"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:23:23",
+            "supplierArticle": "Босоножки-1/Ася/А186-2/КаблукиБелые",
+            "nmId": 222852528,
+            "techSize": "38",
+            "priceWithDisc": -3238,
+            "saleID": "R402888334"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T15:53:49",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "40",
+            "priceWithDisc": 2790,
+            "saleID": "S15178722953"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:29:52",
+            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
+            "nmId": 197951369,
+            "techSize": "37",
+            "priceWithDisc": -2340,
+            "saleID": "R402890528"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:07:01",
+            "supplierArticle": "Кросс-14/Н116-3/КласСер",
+            "nmId": 205423664,
+            "techSize": "41",
+            "priceWithDisc": 2310,
+            "saleID": "S15179037604"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:10:17",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5100,
+            "saleID": "S15179091529"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:11:50",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "39",
+            "priceWithDisc": 2336,
+            "saleID": "S15179148434"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:15:35",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "41",
+            "priceWithDisc": 3710,
+            "saleID": "S15179254041"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:39:49",
+            "supplierArticle": "Ботинки-17/Т32-1/ЧернЗимШнКлас",
+            "nmId": 175515619,
+            "techSize": "37",
+            "priceWithDisc": -1920,
+            "saleID": "R402893849"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:47:38",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "39",
+            "priceWithDisc": 4770.01,
+            "saleID": "S15180047696"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T16:45:41",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "39",
+            "priceWithDisc": 5185,
+            "saleID": "S15179992922"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:07:09",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "38",
+            "priceWithDisc": 5355,
+            "saleID": "S15180541891"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:09:37",
+            "supplierArticle": "Ботинки-1/А3013/ОсеньЧерн",
+            "nmId": 174609571,
+            "techSize": "38",
+            "priceWithDisc": 1615,
+            "saleID": "S15180610112"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:25:22",
+            "supplierArticle": "Туфли-1/Ася/F915/Бант",
+            "nmId": 151976492,
+            "techSize": "37",
+            "priceWithDisc": 4590,
+            "saleID": "S15181016889"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:26:14",
+            "supplierArticle": "Свитшот-1/231001/БазБел",
+            "nmId": 174207514,
+            "techSize": "52",
+            "priceWithDisc": 2095.2,
+            "saleID": "S15181054589"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:22:45",
+            "supplierArticle": "Джинсы-2/017/БананЧер",
+            "nmId": 174079418,
+            "techSize": "33",
+            "priceWithDisc": 1425,
+            "saleID": "S15180983618"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:35:21",
+            "supplierArticle": "Ботинки-2/А3021/ОсеньБеж",
+            "nmId": 174711465,
+            "techSize": "38",
+            "priceWithDisc": 1360,
+            "saleID": "S15181322700"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:32:15",
+            "supplierArticle": "Кросс-18/Y29-6/ДутышБелШнур",
+            "nmId": 241556371,
+            "techSize": "38",
+            "priceWithDisc": 3010,
+            "saleID": "S15181230686"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:38:05",
+            "supplierArticle": "Лоферы-3/DA008/ЧернКлеп",
+            "nmId": 210823406,
+            "techSize": "38",
+            "priceWithDisc": 3525,
+            "saleID": "S15181378866"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:44:15",
+            "supplierArticle": "Туфли-14/V81-1/ЧернКожСтраз",
+            "nmId": 197951012,
+            "techSize": "38",
+            "priceWithDisc": 2457,
+            "saleID": "S15181540619"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T17:57:35",
+            "supplierArticle": "Туфли-10/G25-4/замшстраз",
+            "nmId": 169578331,
+            "techSize": "40",
+            "priceWithDisc": 4000,
+            "saleID": "S15181886557"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T18:31:45",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "41",
+            "priceWithDisc": 5185,
+            "saleID": "S15182803718"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T18:35:32",
+            "supplierArticle": "Кросс-16/ Y33-9/ГолубШнур",
+            "nmId": 241465690,
+            "techSize": "38",
+            "priceWithDisc": 3710,
+            "saleID": "S15182916632"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:04:04",
+            "supplierArticle": "Балетки-4/P99-10/БалЧернЛак",
+            "nmId": 243243657,
+            "techSize": "40",
+            "priceWithDisc": 2450,
+            "saleID": "S15183576119"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:02:17",
+            "supplierArticle": "Кросс-12/Y9-9/Голуб",
+            "nmId": 201299466,
+            "techSize": "38",
+            "priceWithDisc": 2304,
+            "saleID": "S15183536940"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:14:25",
+            "supplierArticle": "Ботинки-7/223-3-1/ОсеньБеж",
+            "nmId": 174978940,
+            "techSize": "38",
+            "priceWithDisc": 1700,
+            "saleID": "S15183805834"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:20:37",
+            "supplierArticle": "Кросс-15/Н115-1/ВолкБеж",
+            "nmId": 205477591,
+            "techSize": "36",
+            "priceWithDisc": 3150,
+            "saleID": "S15183933297"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:33:05",
+            "supplierArticle": "Брюки-1/1777-555#14/ШерстБежОсень",
+            "nmId": 176570836,
+            "techSize": "52 - 170",
+            "priceWithDisc": 2170,
+            "saleID": "S15184191745"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:44:44",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "36",
+            "priceWithDisc": 5185,
+            "saleID": "S15184382057"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T19:49:11",
+            "supplierArticle": "Туфли-12/Р46-10/КаблЛакЧерн",
+            "nmId": 180238403,
+            "techSize": "38",
+            "priceWithDisc": -4590,
+            "saleID": "R402971095"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:21:48",
+            "supplierArticle": "Кроссовки-1/М26-7/корич",
+            "nmId": 169580339,
+            "techSize": "36",
+            "priceWithDisc": 3361.4,
+            "saleID": "S15185006093"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:20:17",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "36",
+            "priceWithDisc": 5185,
+            "saleID": "S15184975837"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:20:48",
+            "supplierArticle": "Туфли-11/Р681-31/ЛеопСветл",
+            "nmId": 180238051,
+            "techSize": "37",
+            "priceWithDisc": 2790,
+            "saleID": "S15184984968"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:20:21",
+            "supplierArticle": "Ботинки-11/К3-1/ОсенЧернКож",
+            "nmId": 174845344,
+            "techSize": "37",
+            "priceWithDisc": 5185,
+            "saleID": "S15184986981"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:31:03",
+            "supplierArticle": "Туфли-14/V81-6/ЧернЗамшСтраз",
+            "nmId": 197951369,
+            "techSize": "38",
+            "priceWithDisc": 2519.97,
+            "saleID": "S15185126523"
+        }
+    },
+    {
+        "model": "main.SalesTable",
+        "fields": {
+            "date": "2025-01-29T20:29:02",
+            "supplierArticle": "Туфли-16/DA002/БежЛакКабл",
+            "nmId": 210822270,
+            "techSize": "38",
+            "priceWithDisc": -2960,
+            "saleID": "R402985482"
         }
     }
 ]

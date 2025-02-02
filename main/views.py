@@ -3,8 +3,21 @@ from .models import NameImgIdModel, IdSizeModel, SalesTable, OrdersTable
 from datetime import date, timedelta
 
 def items_sales(request):
+
+    start_date = request.GET.get('start_date')
+    end_date = request.GET.get('end_date')
+
     first_date = date(2024, 12, 30)
     today_date = date.today()
+
+    if start_date:
+        start_date = date(int(start_date[0:4]), int(start_date[5:7]), int(start_date[-2:]))
+        if start_date >= first_date:
+            first_date = start_date
+    if end_date:
+        end_date = date(int(end_date[0:4]), int(end_date[5:7]), int(end_date[-2:]))
+        if end_date <= today_date:
+            today_date = end_date
 
     days_between_dates = today_date - first_date
 
@@ -38,7 +51,9 @@ def items_sales(request):
                 item_cards['sizes'].append(item_sizes['sizes'])
 
     menus_n_refs = {'Продажи': '/items_sales', 'Список заказов': '/orders_table'}
-    return render(request, 'items_sales.html', {'data': data_cards, 'dates': dates_list, 'sales': sales_dict, "menu_items": menus_n_refs})
+
+    return render(request, 'items_sales.html', {'data': data_cards, 'dates': dates_list, 'sales': sales_dict, 
+                                                "menu_items": menus_n_refs, 'start_date': first_date, 'end_date': today_date})
 
 def orders_table(request):
     data = OrdersTable.objects.all()

@@ -44,6 +44,15 @@
     <header>
         {% include "_navigation.html" %}
     </header>
+    <form action="" method="get">
+        <label for="start_date">Начальная дата:</label>
+        <input type="date" id="start_date" name="start_date" value="{{ start_date or '' }}">
+
+        <label for="end_date">Конечная дата:</label>
+        <input type="date" id="end_date" name="end_date" value="{{ end_date or '' }}">
+
+        <button type="submit">Фильтровать</button>
+    </form>
     <div class="table-container">
         <table style="border: 5px solid #990000; border-collapse: collapse">
             <thead>
